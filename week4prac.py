@@ -67,3 +67,6 @@ print('Length of a variable list', len(a))
 print('Max in a')
 print('Min in a')
 print('Sum of a')
+
+
+Print('test for git')
