@@ -74,3 +74,5 @@ Print('test for git')
 print('test for new things after uploading into github through command line')
 
 print('2nd update from github')
+
+print('update from local machine')
