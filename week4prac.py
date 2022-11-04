@@ -70,3 +70,5 @@ print('Sum of a')
 
 
 Print('test for git')
+
+print('test for new things after uploading into github through command line')
